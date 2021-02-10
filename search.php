@@ -26,7 +26,7 @@
 	<script src="js/sweetalert.min.js"></script> 
  <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBOtk_B7F3Mgi_je0WGneOzYcWiGyTeiwA&callback=initMap&libraries=&v=weekly"
+      src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap&libraries=&v=weekly"
       defer
     ></script>
     <!-- Theme Style -->
